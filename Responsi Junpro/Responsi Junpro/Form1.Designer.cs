@@ -53,9 +53,9 @@
             this.label2.AutoSize = true;
             this.label2.Location = new System.Drawing.Point(20, 130);
             this.label2.Name = "label2";
-            this.label2.Size = new System.Drawing.Size(80, 13);
+            this.label2.Size = new System.Drawing.Size(92, 13);
             this.label2.TabIndex = 1;
-            this.label2.Text = "Dep. Karyawan";
+            this.label2.Text = "Id Dep. Karyawan";
             // 
             // tbNama
             // 
